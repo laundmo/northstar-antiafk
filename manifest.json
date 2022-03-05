@@ -1,9 +1,7 @@
 {
-    "name": "ExampleMod",
-    "version_number": "0.0.1",
-    "website_url": "",
-    "description": "Example mod",
-    "dependencies": [
-        "Username-Modname-1.5.0"
-    ]
+  "name": "AntiAFK",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/laundmo/northstar-antiafk",
+  "description": "Mod that kicks AFK players",
+  "dependencies": []
 }
